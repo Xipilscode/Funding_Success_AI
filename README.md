@@ -27,6 +27,7 @@ This project leverages the following technologies:
 
 * Original Model
 Layer details:
+
 | Type                 | Shape | Activation |
 | -------------------- | ----  | ---------- |
 | Dence hidden layer 1 |  58   |    Relu    |
@@ -47,6 +48,7 @@ Layer details:
 
 * Alternative Model 1
 Layer details:
+
 | Type                 | Shape | Activation |
 | -------------------- | ----  | ---------- |
 | Dence hidden layer 1 |  58   |    Relu    |
@@ -68,6 +70,7 @@ Layer details:
 
 * Alternative Model 2
 Layer details:
+
 | Type                 | Shape | Activation |
 | -------------------- | ----  | ---------- |
 | Dence hidden layer 1 |  58   |    Tanh    |
