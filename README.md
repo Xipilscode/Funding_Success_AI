@@ -1,4 +1,4 @@
-## Funding Success AI with Deep Learning
+## Startup Evaluation AI with Deep Learning
 
 The project involves developing a deep neural network-based binary classification model to predict the success of startups funded by Alphabet Soup, a venture capital firm. The model will be trained on a dataset containing information on over 34,000 organizations that received funding from Alphabet Soup. The project includes preprocessing the data, creating and evaluating a neural network model, and optimizing the model to improve its accuracy. At least two attempts at optimization will be made, including adjustments to input data, hidden layers, activation functions, and training epochs. The final models will be saved as HDF5 files for future use.
 
